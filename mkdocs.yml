@@ -13,6 +13,8 @@ nav:
     - Content Creators Guide: content-creators/about.md
   - For Contributors:
     - Contributors Guide: contributors/about.md
+  - Roleplay Archive:
+    - Archive Guide: archive/about.md
 theme:
   name: material
   # This thing will complain about the .ico format but the logo is valid anyway. Can just swap this out later.
