@@ -7,7 +7,3 @@ For Google Docs, please also include a .docx or .odt backup, you can do so by cl
 File -> Download -> Microsoft Word (.docx) OR OpenDocument Format (.odt)
 
 ![File -> Download -> Microsoft Word (.docx) OR OpenDocument Format (.odt)](<backing up.png>)
-
-## [One Offs](one-offs/about.md)
-
-## [Weeklies](weeklies/about.md)

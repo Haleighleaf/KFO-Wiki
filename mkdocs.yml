@@ -15,8 +15,10 @@ theme:
     primary: black
     accent: red
   features:
-    - navigation.top
-    - navigation.instant
+    - navigation.tabs
+    - navigation.footer
+    - toc.integrate
+    - content.code.annotate
     - content.action.edit
     - content.action.view
 plugins:

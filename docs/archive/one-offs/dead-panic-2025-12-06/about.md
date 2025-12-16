@@ -1,4 +1,4 @@
-# First Host, 2025-12-06
+# Dead Panic - First Host, 2025-12-06
 
 The first session has been run in a single area!
 
